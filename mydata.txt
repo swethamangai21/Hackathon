@@ -1,0 +1,1054 @@
+Headers:
+sepal length (cm), sepal width (cm), petal length (cm), petal width (cm), species
+
+Content:
+Row 1:
+sepal length (cm): 5.1
+sepal width (cm): 3.5
+petal length (cm): 1.4
+petal width (cm): 0.2
+species: 0
+
+Row 2:
+sepal length (cm): 4.9
+sepal width (cm): 3.0
+petal length (cm): 1.4
+petal width (cm): 0.2
+species: 0
+
+Row 3:
+sepal length (cm): 4.7
+sepal width (cm): 3.2
+petal length (cm): 1.3
+petal width (cm): 0.2
+species: 0
+
+Row 4:
+sepal length (cm): 4.6
+sepal width (cm): 3.1
+petal length (cm): 1.5
+petal width (cm): 0.2
+species: 0
+
+Row 5:
+sepal length (cm): 5.0
+sepal width (cm): 3.6
+petal length (cm): 1.4
+petal width (cm): 0.2
+species: 0
+
+Row 6:
+sepal length (cm): 5.4
+sepal width (cm): 3.9
+petal length (cm): 1.7
+petal width (cm): 0.4
+species: 0
+
+Row 7:
+sepal length (cm): 10.000994906095045
+sepal width (cm): 3.4
+petal length (cm): 1.4
+petal width (cm): 0.3
+species: 0
+
+Row 8:
+sepal length (cm): 5.0
+sepal width (cm): 3.4
+petal length (cm): 1.5
+petal width (cm): 0.2
+species: 0
+
+Row 9:
+sepal length (cm): 4.4
+sepal width (cm): 2.9
+petal length (cm): 1.4
+petal width (cm): 0.2
+species: 0
+
+Row 10:
+sepal length (cm): 
+sepal width (cm): 
+petal length (cm): 1.5
+petal width (cm): 0.1
+species: 0
+
+Row 11:
+sepal length (cm): 5.4
+sepal width (cm): 5.189358935309129
+petal length (cm): 
+petal width (cm): 0.2
+species: 0
+
+Row 12:
+sepal length (cm): 4.8
+sepal width (cm): 3.4
+petal length (cm): 1.6
+petal width (cm): 0.2
+species: 0
+
+Row 13:
+sepal length (cm): 
+sepal width (cm): 3.0
+petal length (cm): 1.4
+petal width (cm): 0.1
+species: 0
+
+Row 14:
+sepal length (cm): 4.3
+sepal width (cm): 
+petal length (cm): 1.1
+petal width (cm): 0.1
+species: 0
+
+Row 15:
+sepal length (cm): 5.8
+sepal width (cm): 
+petal length (cm): 1.2
+petal width (cm): 0.2
+species: 0
+
+Row 16:
+sepal length (cm): 5.7
+sepal width (cm): 4.4
+petal length (cm): 12.607734713410006
+petal width (cm): 0.4
+species: 0
+
+Row 17:
+sepal length (cm): 5.4
+sepal width (cm): 3.9
+petal length (cm): 1.3
+petal width (cm): 0.4
+species: 0
+
+Row 18:
+sepal length (cm): 5.1
+sepal width (cm): 3.5
+petal length (cm): 1.4
+petal width (cm): 0.3
+species: 0
+
+Row 19:
+sepal length (cm): 
+sepal width (cm): 3.8
+petal length (cm): 1.7
+petal width (cm): 0.3
+species: 0
+
+Row 20:
+sepal length (cm): 
+sepal width (cm): 3.8
+petal length (cm): 1.5
+petal width (cm): 0.3
+species: 0
+
+Row 21:
+sepal length (cm): 5.4
+sepal width (cm): 
+petal length (cm): 1.7
+petal width (cm): 0.2
+species: 0
+
+Row 22:
+sepal length (cm): 5.1
+sepal width (cm): 3.7
+petal length (cm): 1.5
+petal width (cm): 0.4
+species: 0
+
+Row 23:
+sepal length (cm): 4.6
+sepal width (cm): 3.6
+petal length (cm): 1.0
+petal width (cm): 0.2
+species: 0
+
+Row 24:
+sepal length (cm): 5.1
+sepal width (cm): 3.3
+petal length (cm): 1.7
+petal width (cm): 0.5
+species: 0
+
+Row 25:
+sepal length (cm): 4.8
+sepal width (cm): 3.4
+petal length (cm): 1.9
+petal width (cm): 0.2
+species: 0
+
+Row 26:
+sepal length (cm): 5.0
+sepal width (cm): 3.0
+petal length (cm): 1.6
+petal width (cm): 0.2
+species: 0
+
+Row 27:
+sepal length (cm): 5.0
+sepal width (cm): 3.4
+petal length (cm): 1.6
+petal width (cm): 
+species: 0
+
+Row 28:
+sepal length (cm): 5.2
+sepal width (cm): 3.5
+petal length (cm): 1.5
+petal width (cm): 0.2
+species: 0
+
+Row 29:
+sepal length (cm): 5.2
+sepal width (cm): 3.4
+petal length (cm): 
+petal width (cm): 0.2
+species: 0
+
+Row 30:
+sepal length (cm): 4.7
+sepal width (cm): 3.2
+petal length (cm): 1.6
+petal width (cm): 0.2
+species: 0
+
+Row 31:
+sepal length (cm): 4.8
+sepal width (cm): 5.189358935309129
+petal length (cm): 
+petal width (cm): 0.2
+species: 0
+
+Row 32:
+sepal length (cm): 
+sepal width (cm): 3.4
+petal length (cm): 1.5
+petal width (cm): 0.4
+species: 0
+
+Row 33:
+sepal length (cm): 5.2
+sepal width (cm): 4.1
+petal length (cm): 1.5
+petal width (cm): 0.1
+species: 0
+
+Row 34:
+sepal length (cm): 5.5
+sepal width (cm): 
+petal length (cm): 1.4
+petal width (cm): 0.2
+species: 0
+
+Row 35:
+sepal length (cm): 4.9
+sepal width (cm): 3.1
+petal length (cm): 1.5
+petal width (cm): 0.2
+species: 0
+
+Row 36:
+sepal length (cm): 5.0
+sepal width (cm): 3.2
+petal length (cm): 1.2
+petal width (cm): 0.2
+species: 0
+
+Row 37:
+sepal length (cm): 
+sepal width (cm): 3.5
+petal length (cm): 1.3
+petal width (cm): 0.2
+species: 0
+
+Row 38:
+sepal length (cm): 4.9
+sepal width (cm): 3.6
+petal length (cm): 1.4
+petal width (cm): 
+species: 0
+
+Row 39:
+sepal length (cm): 4.4
+sepal width (cm): 3.0
+petal length (cm): 1.3
+petal width (cm): 0.2
+species: 0
+
+Row 40:
+sepal length (cm): 5.1
+sepal width (cm): 3.4
+petal length (cm): 1.5
+petal width (cm): 0.2
+species: 0
+
+Row 41:
+sepal length (cm): 5.0
+sepal width (cm): 3.5
+petal length (cm): 1.3
+petal width (cm): 0.3
+species: 0
+
+Row 42:
+sepal length (cm): 4.5
+sepal width (cm): 2.3
+petal length (cm): 1.3
+petal width (cm): 0.3
+species: 0
+
+Row 43:
+sepal length (cm): 4.4
+sepal width (cm): 3.2
+petal length (cm): 1.3
+petal width (cm): 0.2
+species: 0
+
+Row 44:
+sepal length (cm): 5.0
+sepal width (cm): 3.5
+petal length (cm): 1.6
+petal width (cm): 0.6
+species: 0
+
+Row 45:
+sepal length (cm): 5.1
+sepal width (cm): 3.8
+petal length (cm): 1.9
+petal width (cm): 0.4
+species: 0
+
+Row 46:
+sepal length (cm): 4.8
+sepal width (cm): 
+petal length (cm): 1.4
+petal width (cm): 0.3
+species: 0
+
+Row 47:
+sepal length (cm): 5.1
+sepal width (cm): 3.8
+petal length (cm): 1.6
+petal width (cm): 0.2
+species: 0
+
+Row 48:
+sepal length (cm): 4.6
+sepal width (cm): 
+petal length (cm): 1.4
+petal width (cm): 0.2
+species: 0
+
+Row 49:
+sepal length (cm): 5.3
+sepal width (cm): 3.7
+petal length (cm): 1.5
+petal width (cm): 0.2
+species: 0
+
+Row 50:
+sepal length (cm): 5.0
+sepal width (cm): 3.3
+petal length (cm): 1.4
+petal width (cm): 0.2
+species: 0
+
+Row 51:
+sepal length (cm): 7.0
+sepal width (cm): 3.2
+petal length (cm): 4.7
+petal width (cm): 1.4
+species: 1
+
+Row 52:
+sepal length (cm): 6.4
+sepal width (cm): 3.2
+petal length (cm): 
+petal width (cm): 
+species: 1
+
+Row 53:
+sepal length (cm): 6.9
+sepal width (cm): 3.1
+petal length (cm): 4.9
+petal width (cm): 1.5
+species: 1
+
+Row 54:
+sepal length (cm): 5.5
+sepal width (cm): 2.3
+petal length (cm): 4.0
+petal width (cm): 1.3
+species: 1
+
+Row 55:
+sepal length (cm): 6.5
+sepal width (cm): 2.8
+petal length (cm): 
+petal width (cm): 1.5
+species: 1
+
+Row 56:
+sepal length (cm): 5.7
+sepal width (cm): 2.8
+petal length (cm): 4.5
+petal width (cm): 1.3
+species: 1
+
+Row 57:
+sepal length (cm): 6.3
+sepal width (cm): 3.3
+petal length (cm): 4.7
+petal width (cm): 1.6
+species: 1
+
+Row 58:
+sepal length (cm): 4.9
+sepal width (cm): 2.4
+petal length (cm): 12.607734713410006
+petal width (cm): 1.0
+species: 1
+
+Row 59:
+sepal length (cm): 6.6
+sepal width (cm): 2.9
+petal length (cm): 
+petal width (cm): 4.937530879202732
+species: 1
+
+Row 60:
+sepal length (cm): 5.2
+sepal width (cm): 2.7
+petal length (cm): 3.9
+petal width (cm): 1.4
+species: 1
+
+Row 61:
+sepal length (cm): 5.0
+sepal width (cm): 2.0
+petal length (cm): 3.5
+petal width (cm): 1.0
+species: 1
+
+Row 62:
+sepal length (cm): 5.9
+sepal width (cm): 3.0
+petal length (cm): 4.2
+petal width (cm): 1.5
+species: 1
+
+Row 63:
+sepal length (cm): 6.0
+sepal width (cm): 2.2
+petal length (cm): 4.0
+petal width (cm): 1.0
+species: 1
+
+Row 64:
+sepal length (cm): 6.1
+sepal width (cm): 2.9
+petal length (cm): 4.7
+petal width (cm): 1.4
+species: 1
+
+Row 65:
+sepal length (cm): 
+sepal width (cm): 2.9
+petal length (cm): 
+petal width (cm): 1.3
+species: 1
+
+Row 66:
+sepal length (cm): 6.7
+sepal width (cm): 3.1
+petal length (cm): 4.4
+petal width (cm): 1.4
+species: 1
+
+Row 67:
+sepal length (cm): 5.6
+sepal width (cm): 3.0
+petal length (cm): 4.5
+petal width (cm): 1.5
+species: 1
+
+Row 68:
+sepal length (cm): 5.8
+sepal width (cm): 2.7
+petal length (cm): 4.1
+petal width (cm): 1.0
+species: 1
+
+Row 69:
+sepal length (cm): 
+sepal width (cm): 2.2
+petal length (cm): 4.5
+petal width (cm): 1.5
+species: 1
+
+Row 70:
+sepal length (cm): 5.6
+sepal width (cm): 2.5
+petal length (cm): 3.9
+petal width (cm): 1.1
+species: 1
+
+Row 71:
+sepal length (cm): 5.9
+sepal width (cm): 3.2
+petal length (cm): 
+petal width (cm): 1.8
+species: 1
+
+Row 72:
+sepal length (cm): 6.1
+sepal width (cm): 2.8
+petal length (cm): 
+petal width (cm): 1.3
+species: 1
+
+Row 73:
+sepal length (cm): 6.3
+sepal width (cm): 2.5
+petal length (cm): 4.9
+petal width (cm): 1.5
+species: 1
+
+Row 74:
+sepal length (cm): 
+sepal width (cm): 2.8
+petal length (cm): 4.7
+petal width (cm): 1.2
+species: 1
+
+Row 75:
+sepal length (cm): 6.4
+sepal width (cm): 2.9
+petal length (cm): 4.3
+petal width (cm): 1.3
+species: 1
+
+Row 76:
+sepal length (cm): 6.6
+sepal width (cm): 3.0
+petal length (cm): 4.4
+petal width (cm): 1.4
+species: 1
+
+Row 77:
+sepal length (cm): 
+sepal width (cm): 2.8
+petal length (cm): 4.8
+petal width (cm): 1.4
+species: 1
+
+Row 78:
+sepal length (cm): 6.7
+sepal width (cm): 3.0
+petal length (cm): 5.0
+petal width (cm): 1.7
+species: 1
+
+Row 79:
+sepal length (cm): 
+sepal width (cm): 2.9
+petal length (cm): 4.5
+petal width (cm): 1.5
+species: 1
+
+Row 80:
+sepal length (cm): 5.7
+sepal width (cm): 2.6
+petal length (cm): 3.5
+petal width (cm): 1.0
+species: 1
+
+Row 81:
+sepal length (cm): 5.5
+sepal width (cm): 2.4
+petal length (cm): 
+petal width (cm): 1.1
+species: 1
+
+Row 82:
+sepal length (cm): 5.5
+sepal width (cm): 2.4
+petal length (cm): 
+petal width (cm): 1.0
+species: 1
+
+Row 83:
+sepal length (cm): 
+sepal width (cm): 2.7
+petal length (cm): 3.9
+petal width (cm): 
+species: 1
+
+Row 84:
+sepal length (cm): 6.0
+sepal width (cm): 2.7
+petal length (cm): 5.1
+petal width (cm): 1.6
+species: 1
+
+Row 85:
+sepal length (cm): 5.4
+sepal width (cm): 
+petal length (cm): 4.5
+petal width (cm): 1.5
+species: 1
+
+Row 86:
+sepal length (cm): 6.0
+sepal width (cm): 5.189358935309129
+petal length (cm): 4.5
+petal width (cm): 1.6
+species: 1
+
+Row 87:
+sepal length (cm): 6.7
+sepal width (cm): 3.1
+petal length (cm): 4.7
+petal width (cm): 1.5
+species: 1
+
+Row 88:
+sepal length (cm): 6.3
+sepal width (cm): 2.3
+petal length (cm): 12.607734713410006
+petal width (cm): 1.3
+species: 1
+
+Row 89:
+sepal length (cm): 5.6
+sepal width (cm): 3.0
+petal length (cm): 4.1
+petal width (cm): 1.3
+species: 1
+
+Row 90:
+sepal length (cm): 5.5
+sepal width (cm): 2.5
+petal length (cm): 4.0
+petal width (cm): 1.3
+species: 1
+
+Row 91:
+sepal length (cm): 5.5
+sepal width (cm): 
+petal length (cm): 4.4
+petal width (cm): 1.2
+species: 1
+
+Row 92:
+sepal length (cm): 6.1
+sepal width (cm): 3.0
+petal length (cm): 4.6
+petal width (cm): 1.4
+species: 1
+
+Row 93:
+sepal length (cm): 5.8
+sepal width (cm): 2.6
+petal length (cm): 4.0
+petal width (cm): 1.2
+species: 1
+
+Row 94:
+sepal length (cm): 5.0
+sepal width (cm): 2.3
+petal length (cm): 3.3
+petal width (cm): 1.0
+species: 1
+
+Row 95:
+sepal length (cm): 10.000994906095045
+sepal width (cm): 2.7
+petal length (cm): 4.2
+petal width (cm): 1.3
+species: 1
+
+Row 96:
+sepal length (cm): 5.7
+sepal width (cm): 3.0
+petal length (cm): 4.2
+petal width (cm): 4.937530879202732
+species: 1
+
+Row 97:
+sepal length (cm): 5.7
+sepal width (cm): 2.9
+petal length (cm): 4.2
+petal width (cm): 1.3
+species: 1
+
+Row 98:
+sepal length (cm): 6.2
+sepal width (cm): 2.9
+petal length (cm): 4.3
+petal width (cm): 1.3
+species: 1
+
+Row 99:
+sepal length (cm): 5.1
+sepal width (cm): 2.5
+petal length (cm): 3.0
+petal width (cm): 1.1
+species: 1
+
+Row 100:
+sepal length (cm): 5.7
+sepal width (cm): 2.8
+petal length (cm): 12.607734713410006
+petal width (cm): 1.3
+species: 1
+
+Row 101:
+sepal length (cm): 6.3
+sepal width (cm): 3.3
+petal length (cm): 6.0
+petal width (cm): 4.937530879202732
+species: 2
+
+Row 102:
+sepal length (cm): 5.8
+sepal width (cm): 2.7
+petal length (cm): 5.1
+petal width (cm): 
+species: 2
+
+Row 103:
+sepal length (cm): 7.1
+sepal width (cm): 3.0
+petal length (cm): 5.9
+petal width (cm): 2.1
+species: 2
+
+Row 104:
+sepal length (cm): 6.3
+sepal width (cm): 2.9
+petal length (cm): 5.6
+petal width (cm): 1.8
+species: 2
+
+Row 105:
+sepal length (cm): 6.5
+sepal width (cm): 3.0
+petal length (cm): 5.8
+petal width (cm): 2.2
+species: 2
+
+Row 106:
+sepal length (cm): 7.6
+sepal width (cm): 3.0
+petal length (cm): 6.6
+petal width (cm): 
+species: 2
+
+Row 107:
+sepal length (cm): 4.9
+sepal width (cm): 2.5
+petal length (cm): 4.5
+petal width (cm): 
+species: 2
+
+Row 108:
+sepal length (cm): 7.3
+sepal width (cm): 2.9
+petal length (cm): 6.3
+petal width (cm): 1.8
+species: 2
+
+Row 109:
+sepal length (cm): 6.7
+sepal width (cm): 5.189358935309129
+petal length (cm): 5.8
+petal width (cm): 1.8
+species: 2
+
+Row 110:
+sepal length (cm): 7.2
+sepal width (cm): 3.6
+petal length (cm): 6.1
+petal width (cm): 2.5
+species: 2
+
+Row 111:
+sepal length (cm): 10.000994906095045
+sepal width (cm): 3.2
+petal length (cm): 5.1
+petal width (cm): 2.0
+species: 2
+
+Row 112:
+sepal length (cm): 6.4
+sepal width (cm): 2.7
+petal length (cm): 5.3
+petal width (cm): 1.9
+species: 2
+
+Row 113:
+sepal length (cm): 6.8
+sepal width (cm): 3.0
+petal length (cm): 5.5
+petal width (cm): 2.1
+species: 2
+
+Row 114:
+sepal length (cm): 5.7
+sepal width (cm): 2.5
+petal length (cm): 5.0
+petal width (cm): 2.0
+species: 2
+
+Row 115:
+sepal length (cm): 5.8
+sepal width (cm): 
+petal length (cm): 5.1
+petal width (cm): 2.4
+species: 2
+
+Row 116:
+sepal length (cm): 6.4
+sepal width (cm): 3.2
+petal length (cm): 5.3
+petal width (cm): 2.3
+species: 2
+
+Row 117:
+sepal length (cm): 6.5
+sepal width (cm): 3.0
+petal length (cm): 5.5
+petal width (cm): 1.8
+species: 2
+
+Row 118:
+sepal length (cm): 7.7
+sepal width (cm): 
+petal length (cm): 
+petal width (cm): 2.2
+species: 2
+
+Row 119:
+sepal length (cm): 
+sepal width (cm): 2.6
+petal length (cm): 6.9
+petal width (cm): 2.3
+species: 2
+
+Row 120:
+sepal length (cm): 6.0
+sepal width (cm): 2.2
+petal length (cm): 5.0
+petal width (cm): 1.5
+species: 2
+
+Row 121:
+sepal length (cm): 10.000994906095045
+sepal width (cm): 3.2
+petal length (cm): 5.7
+petal width (cm): 
+species: 2
+
+Row 122:
+sepal length (cm): 5.6
+sepal width (cm): 2.8
+petal length (cm): 4.9
+petal width (cm): 
+species: 2
+
+Row 123:
+sepal length (cm): 7.7
+sepal width (cm): 2.8
+petal length (cm): 6.7
+petal width (cm): 2.0
+species: 2
+
+Row 124:
+sepal length (cm): 10.000994906095045
+sepal width (cm): 2.7
+petal length (cm): 4.9
+petal width (cm): 
+species: 2
+
+Row 125:
+sepal length (cm): 6.7
+sepal width (cm): 3.3
+petal length (cm): 5.7
+petal width (cm): 2.1
+species: 2
+
+Row 126:
+sepal length (cm): 7.2
+sepal width (cm): 5.189358935309129
+petal length (cm): 6.0
+petal width (cm): 1.8
+species: 2
+
+Row 127:
+sepal length (cm): 6.2
+sepal width (cm): 2.8
+petal length (cm): 4.8
+petal width (cm): 1.8
+species: 2
+
+Row 128:
+sepal length (cm): 6.1
+sepal width (cm): 3.0
+petal length (cm): 4.9
+petal width (cm): 1.8
+species: 2
+
+Row 129:
+sepal length (cm): 6.4
+sepal width (cm): 2.8
+petal length (cm): 5.6
+petal width (cm): 2.1
+species: 2
+
+Row 130:
+sepal length (cm): 7.2
+sepal width (cm): 3.0
+petal length (cm): 5.8
+petal width (cm): 
+species: 2
+
+Row 131:
+sepal length (cm): 7.4
+sepal width (cm): 2.8
+petal length (cm): 6.1
+petal width (cm): 1.9
+species: 2
+
+Row 132:
+sepal length (cm): 7.9
+sepal width (cm): 3.8
+petal length (cm): 
+petal width (cm): 
+species: 2
+
+Row 133:
+sepal length (cm): 6.4
+sepal width (cm): 2.8
+petal length (cm): 5.6
+petal width (cm): 
+species: 2
+
+Row 134:
+sepal length (cm): 6.3
+sepal width (cm): 2.8
+petal length (cm): 12.607734713410006
+petal width (cm): 1.5
+species: 2
+
+Row 135:
+sepal length (cm): 6.1
+sepal width (cm): 2.6
+petal length (cm): 5.6
+petal width (cm): 1.4
+species: 2
+
+Row 136:
+sepal length (cm): 7.7
+sepal width (cm): 3.0
+petal length (cm): 6.1
+petal width (cm): 2.3
+species: 2
+
+Row 137:
+sepal length (cm): 6.3
+sepal width (cm): 3.4
+petal length (cm): 5.6
+petal width (cm): 2.4
+species: 2
+
+Row 138:
+sepal length (cm): 6.4
+sepal width (cm): 3.1
+petal length (cm): 5.5
+petal width (cm): 1.8
+species: 2
+
+Row 139:
+sepal length (cm): 6.0
+sepal width (cm): 3.0
+petal length (cm): 4.8
+petal width (cm): 4.937530879202732
+species: 2
+
+Row 140:
+sepal length (cm): 6.9
+sepal width (cm): 3.1
+petal length (cm): 
+petal width (cm): 2.1
+species: 2
+
+Row 141:
+sepal length (cm): 6.7
+sepal width (cm): 3.1
+petal length (cm): 
+petal width (cm): 2.4
+species: 2
+
+Row 142:
+sepal length (cm): 
+sepal width (cm): 
+petal length (cm): 5.1
+petal width (cm): 
+species: 2
+
+Row 143:
+sepal length (cm): 5.8
+sepal width (cm): 2.7
+petal length (cm): 5.1
+petal width (cm): 
+species: 2
+
+Row 144:
+sepal length (cm): 6.8
+sepal width (cm): 3.2
+petal length (cm): 5.9
+petal width (cm): 4.937530879202732
+species: 2
+
+Row 145:
+sepal length (cm): 6.7
+sepal width (cm): 
+petal length (cm): 5.7
+petal width (cm): 2.5
+species: 2
+
+Row 146:
+sepal length (cm): 6.7
+sepal width (cm): 3.0
+petal length (cm): 5.2
+petal width (cm): 2.3
+species: 2
+
+Row 147:
+sepal length (cm): 6.3
+sepal width (cm): 
+petal length (cm): 5.0
+petal width (cm): 1.9
+species: 2
+
+Row 148:
+sepal length (cm): 6.5
+sepal width (cm): 3.0
+petal length (cm): 5.2
+petal width (cm): 2.0
+species: 2
+
+Row 149:
+sepal length (cm): 6.2
+sepal width (cm): 3.4
+petal length (cm): 5.4
+petal width (cm): 2.3
+species: 2
+
+Row 150:
+sepal length (cm): 5.9
+sepal width (cm): 
+petal length (cm): 5.1
+petal width (cm): 1.8
+species: 2
+
