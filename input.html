@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cybercrime Reporting Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        form {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 50%;
+            margin: auto;
+        }
+        h2 {
+            text-align: center;
+        }
+        label {
+            font-weight: bold;
+        }
+        input, textarea, select {
+            width: 100%;
+            padding: 8px;
+            margin: 8px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            background: #28a745;
+            color: white;
+            padding: 10px;
+            border: none;
+            cursor: pointer;
+            width: 100%;
+            border-radius: 5px;
+        }
+        button:hover {
+            background: #218838;
+        }
+    </style>
+</head>
+<body>
+
+    <form action="/submit" method="POST" enctype="multipart/form-data">
+        <h2>Cybercrime Reporting Form</h2>
+
+        <!-- Victim Details -->
+        <label for="victim_name">Victim Name:</label>
+        <input type="text" id="victim_name" name="victim_name" required>
+
+        <label for="victim_age">Victim Age:</label>
+        <input type="number" id="victim_age" name="victim_age" required>
+
+        <label for="victim_contact">Victim Contact (Email/Phone):</label>
+        <input type="text" id="victim_contact" name="victim_contact" required>
+
+        <label for="victim_location">Victim Location:</label>
+        <input type="text" id="victim_location" name="victim_location" required>
+
+        <!-- Perpetrator Details -->
+        <label for="perpetrator_name">Perpetrator Name/Username:</label>
+        <input type="text" id="perpetrator_name" name="perpetrator_name" required>
+
+        <label for="perpetrator_contact">Perpetrator Contact (Email/Phone/Social Media):</label>
+        <input type="text" id="perpetrator_contact" name="perpetrator_contact" required>
+
+        <!-- Incident Details -->
+        <label for="incident_date">Incident Date:</label>
+        <input type="date" id="incident_date" name="incident_date" required>
+
+        <label for="incident_location">Incident Location:</label>
+        <input type="text" id="incident_location" name="incident_location" required>
+
+        <label for="incident_description">Incident Description:</label>
+        <textarea id="incident_description" name="incident_description" rows="4" required></textarea>
+
+        <label for="cyberbullying_type">Type of Cyberbullying:</label>
+        <select id="cyberbullying_type" name="cyberbullying_type" required>
+            <option value="">Select Type</option>
+            <option value="Harassment">Harassment</option>
+            <option value="Impersonation">Impersonation</option>
+            <option value="Hate Speech">Hate Speech</option>
+            <option value="Doxxing">Doxxing</option>
+            <option value="Other">Other</option>
+        </select>
+
+        <!-- Screenshot Upload -->
+        <label for="screenshot">Upload Screenshot (if any):</label>
+        <input type="file" id="screenshot" name="screenshot" accept="image/*">
+
+        <!-- Submit Button -->
+        <button type="submit">Submit Report</button>
+    </form>
+
+</body>
+</html>
